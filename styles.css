@@ -1,0 +1,25 @@
+header
+{
+    text-indent:1em;
+    font-style:italic;
+    font-size: 56px;
+    color: orange;
+    text-shadow: 5px 5px 5px black;
+}
+ul li{padding:3px;}
+footer
+{
+    text-align:center;
+    font-size:10;   
+}
+a:active{color:green;}
+a:link{color:orange;}
+a:visited{color:orange;}
+a:unvisited{color:orange;}
+a:hover{color:green;}
+
+h3:first-of-type{text-indent:6em;}
+h1::first-letter{font-size:72px;}
+h1,h2,h3{font-size:150%;}
+img{float:left}
+
